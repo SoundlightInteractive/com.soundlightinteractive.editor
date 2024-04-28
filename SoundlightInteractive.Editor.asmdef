@@ -1,0 +1,16 @@
+{
+    "name": "SoundlightInteractive.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9cc90048afd1bed4db03b68f4ebe5e2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
