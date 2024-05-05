@@ -7,7 +7,7 @@ namespace SoundlightInteractive.Editor
 {
     public class ShowAllHiddenItemsToolWindow : MonoBehaviour
     {
-        [MenuItem("Puffer Software/Show All Hidden Items", false, 1)]
+        [MenuItem("Soundlight Interactive/Show All Hidden Items", false, 1)]
         public static void ShowAllHiddenItems()
         {
             foreach (GameObject obj in FindObjectsOfType<GameObject>())
